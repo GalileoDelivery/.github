@@ -1,5 +1,3 @@
-Projeto para estudos
+# Galileo Delivery App
 
-webApp para controle de despesas pessoais individuais
-
-<img src="https://i.ibb.co/0jy7rN1/Img.webp" />
+*wip*
